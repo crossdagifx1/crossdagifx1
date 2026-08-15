@@ -1,6 +1,6 @@
 <div align="center">
 
-# `CROSS`<span style="color:#8B5CF6">`DAGIFX1`</span>
+<img src="./profile-animated.gif" alt="Animated Crossdagifx1 neon developer banner" width="100%" />
 
 ### `FULL-STACK DEVELOPER` · `BUILDER` · `OPEN-SOURCE CONTRIBUTOR`
 
@@ -17,7 +17,7 @@
 
 > I’m **Dayananda Sagar**, a full-stack developer and open-source builder focused on shipping useful software, exploring AI and data systems, and building in public.
 
-I work where **clear interfaces**, **intelligent systems**, and **reliable developer tools** meet. My current portfolio experience is built in React and CSS with Lenis-powered smooth scrolling.
+I work where **clear interfaces**, **intelligent systems**, and **reliable developer tools** meet. The animated banner above is generated from code and embedded as a looping profile-compatible visual.
 
 ## `02 / FOCUS MATRIX`
 
