@@ -1,13 +1,13 @@
 <div align="center">
 
-# <span style="color:#7d6dff">CROSS</span><span style="color:#17e8b0">DAGIFX1</span>
+# `CROSS`<span style="color:#8B5CF6">`DAGIFX1`</span>
 
-### `FULL-STACK DEVELOPER` · `BUILDER`
+### `FULL-STACK DEVELOPER` · `BUILDER` · `OPEN-SOURCE CONTRIBUTOR`
 
-`‹ AI · DATA · SYSTEMS ›`　 `‹ OPEN SOURCE ›`　 `‹ BUILDING IN PUBLIC ›`
+`AI · DATA · SYSTEMS`　 `FULL-STACK PRODUCTS`　 `BUILDING IN PUBLIC`
 
-[![Open Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-0b1020?style=for-the-badge&logo=vercel&logoColor=17e8b0&labelColor=111735)](https://github.com/crossdagifx1/portfolio)
-[![GitHub](https://img.shields.io/badge/GITHUB-crossdagifx1-0b1020?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111735)](https://github.com/crossdagifx1)
+[![Open Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-080B17?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=111735)](https://github.com/crossdagifx1/portfolio)
+[![GitHub](https://img.shields.io/badge/GITHUB-CROSSDAGIFX1-080B17?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111735)](https://github.com/crossdagifx1)
 
 </div>
 
@@ -17,15 +17,17 @@
 
 > I’m **Dayananda Sagar**, a full-stack developer and open-source builder focused on shipping useful software, exploring AI and data systems, and building in public.
 
-## `02 / FOCUS`
+I work where **clear interfaces**, **intelligent systems**, and **reliable developer tools** meet. My current portfolio experience is built in React and CSS with Lenis-powered smooth scrolling.
+
+## `02 / FOCUS MATRIX`
 
 | `BUILDING IN PUBLIC` | `AI · DATA · SYSTEMS` |
 |:---|:---|
-| Shipping useful things<br />Building the future | TypeScript · ML · RAG · LLMs |
+| **Shipping useful things**<br />Building the future | **TypeScript · ML · RAG · LLMs** |
 
 | `FULL-STACK BUILDER` | `OPEN SOURCE` |
 |:---|:---|
-| React · Node · MongoDB | Building from anywhere |
+| **React · Node · MongoDB** | **Building from anywhere** |
 
 ## `03 / TOOLKIT`
 
@@ -36,9 +38,28 @@ INTELLIGENCE   RAG · LLMs · Data Systems · Automation
 MINDSET        Ship fast · Learn openly · Build useful things
 ```
 
-## `04 / CURRENT TRANSMISSION`
+## `04 / GITHUB TELEMETRY`
 
-I’m working on practical software at the intersection of **interfaces, intelligent systems, and developer tools**. Visit the portfolio for the coded neon experience with Lenis-powered smooth scrolling.
+<div align="center">
+
+<a href="https://github.com/crossdagifx1">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crossdagifx1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080B17&title_color=8B5CF6&text_color=CBD5E1&icon_color=22D3EE&ring_color=10B981" alt="Crossdagifx1 GitHub statistics" />
+</a>
+<a href="https://github.com/crossdagifx1">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crossdagifx1&layout=compact&langs_count=8&hide_border=true&bg_color=080B17&title_color=8B5CF6&text_color=CBD5E1&icon_color=22D3EE" alt="Crossdagifx1 most used languages" />
+</a>
+
+<br />
+
+<a href="https://github.com/crossdagifx1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crossdagifx1&bg_color=080B17&color=CBD5E1&line=8B5CF6&point=22D3EE&area_color=10B981&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="Crossdagifx1 GitHub activity graph" />
+</a>
+
+</div>
+
+## `05 / CURRENT TRANSMISSION`
+
+I’m building practical software at the intersection of **interfaces, intelligent systems, and developer tools**. Follow the activity signal above or explore the [coded portfolio](https://github.com/crossdagifx1/portfolio).
 
 <div align="center">
 
