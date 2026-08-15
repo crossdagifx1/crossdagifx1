@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**crossdagifx1/crossdagifx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./profile-design.png" alt="Crossdagifx1 — Full-Stack Developer and Builder" width="100%" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I’m **Dayananda Sagar**, a full-stack developer and open-source builder focused on shipping useful software, exploring AI and data systems, and building in public.
+
+### What I’m building
+
+| Focus | Description |
+|---|---|
+| **AI · Data · Systems** | TypeScript, machine learning, RAG, and LLM-powered applications |
+| **Full-stack products** | React, Node.js, JavaScript, and MongoDB applications |
+| **Open source** | Practical tools, experiments, and reusable developer projects |
+| **Building in public** | Sharing useful things and documenting the journey |
+
+### Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-crossdagifx1-111827?style=for-the-badge&logo=github)](https://github.com/crossdagifx1)
+
+<div align="center">
+
+**BUILDING FROM ANYWHERE · SHIPPING USEFUL THINGS · BUILDING THE FUTURE**
+
+</div>
