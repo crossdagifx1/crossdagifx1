@@ -1,28 +1,47 @@
 <div align="center">
 
-<img src="./profile-design.png" alt="Crossdagifx1 — Full-Stack Developer and Builder" width="100%" />
+# <span style="color:#7d6dff">CROSS</span><span style="color:#17e8b0">DAGIFX1</span>
+
+### `FULL-STACK DEVELOPER` · `BUILDER`
+
+`‹ AI · DATA · SYSTEMS ›`　 `‹ OPEN SOURCE ›`　 `‹ BUILDING IN PUBLIC ›`
+
+[![Open Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-0b1020?style=for-the-badge&logo=vercel&logoColor=17e8b0&labelColor=111735)](https://github.com/crossdagifx1/portfolio)
+[![GitHub](https://img.shields.io/badge/GITHUB-crossdagifx1-0b1020?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111735)](https://github.com/crossdagifx1)
 
 </div>
 
-## About me
+---
 
-I’m **Dayananda Sagar**, a full-stack developer and open-source builder focused on shipping useful software, exploring AI and data systems, and building in public.
+## `01 / SIGNAL`
 
-### What I’m building
+> I’m **Dayananda Sagar**, a full-stack developer and open-source builder focused on shipping useful software, exploring AI and data systems, and building in public.
 
-| Focus | Description |
-|---|---|
-| **AI · Data · Systems** | TypeScript, machine learning, RAG, and LLM-powered applications |
-| **Full-stack products** | React, Node.js, JavaScript, and MongoDB applications |
-| **Open source** | Practical tools, experiments, and reusable developer projects |
-| **Building in public** | Sharing useful things and documenting the journey |
+## `02 / FOCUS`
 
-### Connect
+| `BUILDING IN PUBLIC` | `AI · DATA · SYSTEMS` |
+|:---|:---|
+| Shipping useful things<br />Building the future | TypeScript · ML · RAG · LLMs |
 
-[![GitHub](https://img.shields.io/badge/GitHub-crossdagifx1-111827?style=for-the-badge&logo=github)](https://github.com/crossdagifx1)
+| `FULL-STACK BUILDER` | `OPEN SOURCE` |
+|:---|:---|
+| React · Node · MongoDB | Building from anywhere |
+
+## `03 / TOOLKIT`
+
+```text
+FRONTEND       React · TypeScript · JavaScript · Next.js
+BACKEND        Node.js · APIs · PostgreSQL · MongoDB
+INTELLIGENCE   RAG · LLMs · Data Systems · Automation
+MINDSET        Ship fast · Learn openly · Build useful things
+```
+
+## `04 / CURRENT TRANSMISSION`
+
+I’m working on practical software at the intersection of **interfaces, intelligent systems, and developer tools**. Visit the portfolio for the coded neon experience with Lenis-powered smooth scrolling.
 
 <div align="center">
 
-**BUILDING FROM ANYWHERE · SHIPPING USEFUL THINGS · BUILDING THE FUTURE**
+`BUILDING FROM ANYWHERE`　·　`SHIPPING USEFUL THINGS`　·　`BUILDING THE FUTURE`
 
 </div>
