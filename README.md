@@ -113,7 +113,44 @@ PRODUCT MINDSET            Clarity · Speed · Iteration · Reliability
 
 </div>
 
-## `08 / GITHUB TELEMETRY`
+## `08 / INTERACTIVE COMMAND DECK`
+
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=crossdagifx1&color=8B5CF6&style=for-the-badge&label=PROFILE%20SIGNALS)](https://github.com/crossdagifx1)
+[![Followers](https://img.shields.io/github/followers/crossdagifx1?style=for-the-badge&color=22D3EE&labelColor=080B17&label=FOLLOWERS)](https://github.com/crossdagifx1?tab=followers)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/crossdagifx1&query=$.public_repos&style=for-the-badge&color=10B981&labelColor=080B17&label=PUBLIC%20REPOS)](https://github.com/crossdagifx1?tab=repositories)
+[![Portfolio status](https://img.shields.io/badge/PORTFOLIO-LIVE-080B17?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=111735)](https://github.com/crossdagifx1/portfolio)
+
+</div>
+
+<details>
+<summary><strong>OPEN SYSTEM DIAGNOSTICS</strong> · click to expand</summary>
+
+```text
+[ OK ] profile signal       github.com/crossdagifx1
+[ OK ] portfolio channel    github.com/crossdagifx1/portfolio
+[ OK ] build mode           public
+[ OK ] primary stack        React · TypeScript · Node.js
+[ OK ] intelligence layer   RAG · LLMs · data systems
+[ RUN ] current objective   ship something useful
+```
+
+</details>
+
+<details>
+<summary><strong>OPEN PROJECT MODULES</strong> · clickable launch cards</summary>
+
+<div align="center">
+
+<a href="https://github.com/crossdagifx1/portfolio"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=crossdagifx1&repo=portfolio&hide_border=true&bg_color=080B17&title_color=8B5CF6&text_color=CBD5E1&icon_color=22D3EE" alt="Portfolio repository card" /></a>
+<a href="https://github.com/crossdagifx1?tab=repositories"><img height="115" src="https://github-readme-stats.vercel.app/api?username=crossdagifx1&hide=issues&hide_border=true&show_icons=false&bg_color=080B17&title_color=22D3EE&text_color=CBD5E1&custom_title=OPEN%20REPOSITORY%20GRID" alt="Open repository grid" /></a>
+
+</div>
+
+</details>
+
+## `09 / GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -132,7 +169,7 @@ PRODUCT MINDSET            Clarity · Speed · Iteration · Reliability
 
 </div>
 
-## `09 / CURRENT TRANSMISSION`
+## `10 / CURRENT TRANSMISSION`
 
 **Now building:** practical software where intelligent systems meet excellent interfaces.
 
@@ -140,7 +177,7 @@ PRODUCT MINDSET            Clarity · Speed · Iteration · Reliability
 
 **Next signal:** explore the [coded neon portfolio](https://github.com/crossdagifx1/portfolio), inspect the [latest repositories](https://github.com/crossdagifx1?tab=repositories), or start a [conversation](mailto:hello@crossdagifx1.dev).
 
-## `10 / TERMINAL FOOTER`
+## `11 / TERMINAL FOOTER`
 
 ```text
 > connection established
